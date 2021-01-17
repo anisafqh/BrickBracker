@@ -32,6 +32,7 @@ public class PlayGame extends JPanel implements KeyListener, ActionListener
 	
 	private MapGenerator map;
 	
+	
 	public PlayGame()
 	{
 		map = new MapGenerator(3, 7);
