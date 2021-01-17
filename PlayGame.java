@@ -31,7 +31,7 @@ public class PlayGame extends JPanel implements KeyListener, ActionListener
 	private int ballYdir = -2;
 	
 	private MapGenerator map;
-	
+
 	
 	public PlayGame()
 	{
